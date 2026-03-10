@@ -1,0 +1,8 @@
+.categories-content {
+    position: absolute !important;
+    bottom: 30px !important;
+    width: 100% !important;
+}
+.category-box {
+    position: relative !important;
+}

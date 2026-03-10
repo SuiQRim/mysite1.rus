@@ -1,0 +1,15 @@
+li#accordion-section-upsell_premium_section a,li#accordion-section-upsell_bundle_section a {
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    font-size: 14px !important;
+    background: #A33012;
+    font-weight: 500;
+}
+li#accordion-section-upsell_bundle_section a {
+    color: #fff;
+    background: linear-gradient(to right,#024985,#0189f0);
+}
+li#accordion-section-upsell_premium_section h3:after,li#accordion-section-upsell_bundle_section h3:after {
+    display: none;
+}

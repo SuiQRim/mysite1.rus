@@ -1,0 +1,666 @@
+# Copyright (C) 2025 Titan Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Organic Honey 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/organic-honey\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-12-03T09:39:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: organic-honey\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "Organic Honey"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.titanthemes.net/products/organic-honey"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Organic Honey is a luxurious, multipurpose, and all-natural product celebrated for its purity, rich flavor, and unmatched versatility, making it ideal for culinary applications, wellness routines, and natural skincare practices. Carefully harvested using ethical and sustainable beekeeping methods, it retains essential nutrients, enzymes, antioxidants, and trace minerals, offering a wholesome, nutrient-rich addition to daily life. Whether drizzled over warm beverages, incorporated into meals, used as a natural sweetener, or applied in beauty and skincare routines, this golden ingredient enhances taste, health, and overall well-being. Its elegant texture, sophisticated aroma, and natural consistency appeal to eco-conscious and health-focused consumers, while its multipurpose nature allows it to adapt seamlessly across lifestyle, wellness, and culinary contexts. For brands, organic honey can be showcased beautifully in modern digital presentations, thanks to retina-ready, mobile-friendly, and fully responsive website designs. With optimized, secure code, Bootstrap shortcodes, animated banners, interactive testimonial sections, call-to-action (CTA) features, and extensive personalization options, it provides a premium, professional, and engaging online display. Translation-ready functionality and social media integration ensure global reach, while developers can highlight product benefits, team stories, sustainability practices, and customer experiences effectively. Beyond its taste and texture, organic honey nourishes the skin, supports immunity, promotes overall health, and elevates daily rituals, positioning itself as a luxurious, versatile, and nature-inspired lifestyle choice. Ideal for gourmet food lovers, wellness enthusiasts, eco-friendly brands, and creative agencies, it embodies purity, elegance, and sophistication in every drop, making it more than just a product—it’s an experience that connects people with the natural, wholesome essence of honey."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Titan Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.titanthemes.net/"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:19
+#: patterns/banner.php:59
+#: patterns/banner.php:99
+msgid "FRESH AND SWEET AS HONEY."
+msgstr ""
+
+#: patterns/banner.php:23
+#: patterns/banner.php:63
+#: patterns/banner.php:103
+msgid "ORGANIC HONEY AND"
+msgstr ""
+
+#: patterns/banner.php:23
+#: patterns/banner.php:63
+#: patterns/banner.php:103
+msgid "BEST BEEKEEPING"
+msgstr ""
+
+#: patterns/banner.php:27
+#: patterns/banner.php:67
+#: patterns/banner.php:107
+msgid "Lorem Ipsum is simply dummy text of the printing and"
+msgstr ""
+
+#: patterns/banner.php:27
+#: patterns/banner.php:67
+#: patterns/banner.php:107
+msgid "typesetting industry."
+msgstr ""
+
+#: patterns/banner.php:32
+#: patterns/banner.php:72
+#: patterns/banner.php:112
+#: patterns/footer-default.php:69
+#: patterns/footer-default.php:108
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/blog.php
+msgctxt "Pattern title"
+msgid "Blog"
+msgstr ""
+
+#: patterns/blog.php:14
+msgid "Our Blogs"
+msgstr ""
+
+#: patterns/blog.php:18
+#: patterns/health.php:20
+#: patterns/health.php:47
+#: patterns/health.php:67
+#: patterns/health.php:87
+#: patterns/health.php:107
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+msgstr ""
+
+#: patterns/counter.php
+msgctxt "Pattern title"
+msgid "Counter"
+msgstr ""
+
+#: patterns/counter.php:21
+msgid "856+"
+msgstr ""
+
+#: patterns/counter.php:25
+msgid "Happy Customer"
+msgstr ""
+
+#: patterns/counter.php:41
+msgid "1500+"
+msgstr ""
+
+#: patterns/counter.php:45
+msgid "Project Done"
+msgstr ""
+
+#: patterns/counter.php:61
+msgid "10+"
+msgstr ""
+
+#: patterns/counter.php:65
+msgid "Year Of Experience"
+msgstr ""
+
+#: patterns/counter.php:81
+msgid "20+"
+msgstr ""
+
+#: patterns/counter.php:85
+msgid "Award win"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr ""
+
+#: patterns/footer-default.php:22
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+msgstr ""
+
+#: patterns/footer-default.php:44
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer-default.php:49
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-default.php:53
+msgid "Policy"
+msgstr ""
+
+#: patterns/footer-default.php:57
+msgid "Terms and Conditions"
+msgstr ""
+
+#: patterns/footer-default.php:61
+msgid "Career"
+msgstr ""
+
+#: patterns/footer-default.php:65
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer-default.php:76
+msgid "Services"
+msgstr ""
+
+#: patterns/footer-default.php:81
+msgid "Knowledge Base"
+msgstr ""
+
+#: patterns/footer-default.php:85
+msgid "Contact Support"
+msgstr ""
+
+#: patterns/footer-default.php:89
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-default.php:93
+msgid "Blog Articles"
+msgstr ""
+
+#: patterns/footer-default.php:97
+msgid "Brand Assets"
+msgstr ""
+
+#: patterns/footer-default.php:101
+msgid "Brand Guidelines"
+msgstr ""
+
+#: patterns/footer-default.php:114
+msgid "14th Street, Caltech, New Jersey, Alabama"
+msgstr ""
+
+#: patterns/footer-default.php:120
+msgid "Monday - Friday"
+msgstr ""
+
+#: patterns/footer-default.php:124
+msgid "8:00 a.m. - 5:00 p.m."
+msgstr ""
+
+#: patterns/footer-default.php:130
+msgid "email@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:136
+msgid "+1 (012) 345-6780"
+msgstr ""
+
+#: patterns/footer-default.php:147
+msgid "Organic Honey WordPress Theme"
+msgstr ""
+
+#: patterns/footer-default.php:147
+msgid "| Proudly powered By"
+msgstr ""
+
+#: patterns/footer-default.php:147
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/health.php
+msgctxt "Pattern title"
+msgid "Health"
+msgstr ""
+
+#: patterns/health.php:16
+msgid "Health benefit Of Honey"
+msgstr ""
+
+#: patterns/health.php:43
+msgid "Boosts Immunity"
+msgstr ""
+
+#: patterns/health.php:63
+msgid "Aids Digestion"
+msgstr ""
+
+#: patterns/health.php:83
+msgid "Natural Energy Booster"
+msgstr ""
+
+#: patterns/health.php:103
+msgid "Rich in Antioxidants"
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr ""
+
+#: patterns/hidden-404.php:13
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr ""
+
+#: patterns/hidden-404.php:19
+msgctxt "Message to convey that a webpage could not be found"
+msgid "This page could not be found."
+msgstr ""
+
+#: patterns/hidden-404.php:22
+#: patterns/hidden-no-results.php:14
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-404.php:22
+#: patterns/hidden-no-results.php:14
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/hidden-404.php:22
+#: patterns/hidden-no-results.php:14
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-comments.php
+msgctxt "Pattern title"
+msgid "Hidden Comments"
+msgstr ""
+
+#: patterns/hidden-comments.php:13
+msgctxt "Title of comments section"
+msgid "Comments"
+msgstr ""
+
+#: patterns/hidden-no-results.php
+msgctxt "Pattern title"
+msgid "Hidden No Results Content"
+msgstr ""
+
+#: patterns/hidden-no-results.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "Post Meta"
+msgstr ""
+
+#: patterns/post-meta.php:28
+msgctxt "Verb to explain the publication status of a post"
+msgid "Posted"
+msgstr ""
+
+#: patterns/post-meta.php:36
+msgctxt "Preposition to show the relationship between the post and its categories"
+msgid "in"
+msgstr ""
+
+#: patterns/post-meta.php:48
+msgctxt "Preposition to show the relationship between the post and its author"
+msgid "by"
+msgstr ""
+
+#: patterns/post-meta.php:64
+msgctxt "Label for a list of post tags"
+msgid "Tags:"
+msgstr ""
+
+#: patterns/related-post.php
+msgctxt "Pattern title"
+msgid "Related Post"
+msgstr ""
+
+#: patterns/related-post.php:10
+msgid "Related Posts :-"
+msgstr ""
+
+#: patterns/service.php
+msgctxt "Pattern title"
+msgid "Service"
+msgstr ""
+
+#: patterns/service.php:21
+#: patterns/service.php:37
+#: patterns/service.php:53
+msgid "Prepare The Location"
+msgstr ""
+
+#: patterns/service.php:25
+#: patterns/service.php:41
+#: patterns/service.php:57
+msgid "Lorem Ipsum is simply dummy text of the printing"
+msgstr ""
+
+#: patterns/service.php:25
+#: patterns/service.php:41
+#: patterns/service.php:57
+msgid "and typesetting industry."
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:32
+msgid "Popular Post"
+msgstr ""
+
+#: patterns/sidebar.php:52
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:62
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:72
+msgid "Follow Us On"
+msgstr ""
+
+#: styles/brown.json
+msgctxt "Style variation name"
+msgid "Brown"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Second"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Third"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Fourth"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: styles/brown.json
+#: styles/gray.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/sky-blue.json
+#: styles/voilet.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to Fourth"
+msgstr ""
+
+#: styles/gray.json
+msgctxt "Style variation name"
+msgid "Gray"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr ""
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr ""
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr ""
+
+#: styles/sky-blue.json
+msgctxt "Style variation name"
+msgid "Sky Blue"
+msgstr ""
+
+#: styles/voilet.json
+msgctxt "Style variation name"
+msgid "Voilet"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page With No Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "404"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Syne"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Sora"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Font"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr ""

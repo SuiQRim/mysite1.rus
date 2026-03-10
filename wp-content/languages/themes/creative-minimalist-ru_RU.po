@@ -1,0 +1,1605 @@
+# Translation of Themes - Creative Minimalist in Russian
+# This file is distributed under the same license as the Themes - Creative Minimalist package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-02-24 13:30:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Creative Minimalist\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Creative Minimalist"
+msgstr "Creative Minimalist"
+
+#: patterns/content-011.php:41 patterns/content-011.php:66
+#: patterns/content-011.php:90
+msgid "Read more"
+msgstr "Читать дальше"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:22
+msgid "%s and %s"
+msgstr "%s и %s"
+
+#: patterns/cta-001.php:31 patterns/cta-005.php:40
+msgid "(+1) 234 567 21"
+msgstr "(+1) 234 567 21"
+
+#: patterns/contact-005.php:56
+msgid "(+1) 234 567 213"
+msgstr "(+1) 234 567 213"
+
+#: patterns/contact-006.php:54
+msgid "+1 (234) 567-8910"
+msgstr "+1 (234) 567-8910"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:46
+msgid "1-Click Starter Content Import"
+msgstr "Импорт стартового содержимого в 1 клик"
+
+#: patterns/contact-001.php:66 patterns/contact-009.php:40
+#: patterns/contact-011.php:72
+msgid "123 Travel St, New York NY 10000, USA"
+msgstr "123 Travel St, New York NY 10000, USA"
+
+#: patterns/contact-001.php:40 patterns/contact-009.php:62
+#: patterns/contact-011.php:44
+msgid "123 Travel St, Sydney NSW 2000, Australia"
+msgstr "123 Travel St, Sydney NSW 2000, Австралия"
+
+#: inc/superbthemes-info-content/admin-notice/notices/theme-notice.php:9
+msgid "40% discount"
+msgstr "Скидка 40%"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:55
+msgid "AMP Compatible And Mobile Ready"
+msgstr "Совместимость с AMP и мобильная готовность"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "About"
+msgstr "О нас"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:73
+msgid "Access 300+ pre-built Elementor sections and build beautiful sites, fast."
+msgstr "Получите доступ к 300+ готовым разделам Elementor и создавайте красивые сайты быстро."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:49
+msgid "Access all the premium layouts and designs perfect for any niche or industry."
+msgstr "Получите доступ ко всем премиум-макетам и дизайнам, идеально подходящим для любой ниши или отрасли."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:101
+msgid "Add Menus"
+msgstr "Добавить меню"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:155
+msgid "Add a custom logo to make your website look more professional."
+msgstr "Добавить собственный логотип, чтобы Ваш сайт выглядел более профессионально."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:103
+msgid "Add a navigation to your website to improve the user experience."
+msgstr "Добавить навигацию на свой сайт, чтобы улучшить пользовательский опыт."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:142
+msgid "Add your website name and tagline to improve the design and SEO."
+msgstr "Добавить название Вашего сайта и краткое описание, чтобы улучшить дизайн и SEO."
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: functions.php:89
+msgid "Bakery and Pastry content patterns"
+msgstr "Паттерны содержимого для пекарни и кондитерской"
+
+#: patterns/banner-001.php
+msgctxt "Pattern title"
+msgid "Banner 001"
+msgstr "Баннер 001"
+
+#: functions.php:103
+msgid "Banner patterns"
+msgstr "Паттерны баннера"
+
+#: functions.php:102
+msgid "Banners"
+msgstr "Баннеры"
+
+#: theme.json styles/nest.json styles/sprout.json styles/taxi.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Основа"
+
+#: patterns/layout-002.php:39
+msgid "Be a great journalist"
+msgstr "Станьте великим журналистом"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:40
+msgid "Benefit from our comprehensive documentation and dedicated support team, always ready to help."
+msgstr "Воспользуйтесь нашей исчерпывающей документацией и специализированной командой поддержки, всегда готовой прийти на помощь."
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog (Alternative)"
+msgstr "Блог (альтернатива)"
+
+#: patterns/blog-001.php
+msgctxt "Pattern title"
+msgid "Blog 001"
+msgstr "Блог 001"
+
+#: patterns/blog-002.php
+msgctxt "Pattern title"
+msgid "Blog 002"
+msgstr "Блог 002"
+
+#: patterns/blog-003.php
+msgctxt "Pattern title"
+msgid "Blog 003"
+msgstr "Блог 003"
+
+#: patterns/blog-004.php
+msgctxt "Pattern title"
+msgid "Blog 004"
+msgstr "Блог 004"
+
+#: patterns/blog-005.php
+msgctxt "Pattern title"
+msgid "Blog 005"
+msgstr "Блог 005"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog With Sidebar"
+msgstr "Блог с боковой панелью"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:43
+msgid "Brizy, Elementor, Divi Builder, Beaver Builder - you name it. Every page builder plugin is compatible."
+msgstr "Brizy, Elementor, Divi Builder, Beaver Builder - назовите их. Каждый плагин для создания страниц совместим с ними."
+
+#: patterns/team-001.php:40
+msgid "CEO"
+msgstr "CEO"
+
+#: functions.php:81
+msgid "Call To Action"
+msgstr "Призыв к действию"
+
+#: patterns/cta-001.php
+msgctxt "Pattern title"
+msgid "Call To Action 001"
+msgstr "Призыв к действию 001"
+
+#: patterns/cta-005.php
+msgctxt "Pattern title"
+msgid "Call To Action 005"
+msgstr "Призыв к действию 005"
+
+#: functions.php:82
+msgid "Call to action patterns"
+msgstr "Паттерны призыва к действию"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:140
+msgid "Change Site Title"
+msgstr "Изменить название сайта"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:64
+msgid "Child Themes"
+msgstr "Дочерние темы"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Комментарии"
+
+#: functions.php:109
+msgid "Contact"
+msgstr "Контакт"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Contact"
+msgstr "Контакт"
+
+#: patterns/contact-001.php
+msgctxt "Pattern title"
+msgid "Contact 001"
+msgstr "Контакт 001"
+
+#: patterns/contact-002.php
+msgctxt "Pattern title"
+msgid "Contact 002"
+msgstr "Контакт 002"
+
+#: patterns/contact-005.php
+msgctxt "Pattern title"
+msgid "Contact 005"
+msgstr "Контакт 005"
+
+#: patterns/contact-006.php
+msgctxt "Pattern title"
+msgid "Contact 006"
+msgstr "Контакт 006"
+
+#: patterns/contact-009.php
+msgctxt "Pattern title"
+msgid "Contact 009"
+msgstr "Контакт 009"
+
+#: patterns/contact-011.php
+msgctxt "Pattern title"
+msgid "Contact 011"
+msgstr "Контакт 011"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:240
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: patterns/header-002.php:34
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: functions.php:110
+msgid "Contact patterns"
+msgstr "Паттерны Контакты"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:237
+msgid "Contact support"
+msgstr "Связаться с поддержкой"
+
+#: patterns/cta-001.php:36
+msgid "Contact us"
+msgstr "Свяжитесь с нами"
+
+#: functions.php:88
+msgid "Content"
+msgstr "Содержимое"
+
+#: patterns/content-001.php
+msgctxt "Pattern title"
+msgid "Content 001"
+msgstr "Содержимое 001"
+
+#: patterns/content-002.php
+msgctxt "Pattern title"
+msgid "Content 002"
+msgstr "Содержимое 002"
+
+#: patterns/content-006.php
+msgctxt "Pattern title"
+msgid "Content 006"
+msgstr "Содержимое 006"
+
+#: patterns/content-011.php
+msgctxt "Pattern title"
+msgid "Content 011"
+msgstr "Содержимое 011"
+
+#: patterns/content-012.php
+msgctxt "Pattern title"
+msgid "Content 012"
+msgstr "Содержимое 012"
+
+#: patterns/content-013.php
+msgctxt "Pattern title"
+msgid "Content 013"
+msgstr "Содержимое 013"
+
+#: patterns/content-014.php
+msgctxt "Pattern title"
+msgid "Content 014"
+msgstr "Содержимое 014"
+
+#: patterns/content-015.php
+msgctxt "Pattern title"
+msgid "Content 015"
+msgstr "Содержимое 015"
+
+#: theme.json styles/nest.json styles/sprout.json styles/taxi.json
+msgctxt "Color name"
+msgid "Contrast Dark"
+msgstr "Темный контраст"
+
+#: theme.json styles/nest.json styles/sprout.json styles/taxi.json
+msgctxt "Color name"
+msgid "Contrast Light"
+msgstr "Светлый контраст"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:166
+msgid "Create New Pages"
+msgstr "Создать новую страницу"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:185
+msgid "Create a beautiful website easily, without coding."
+msgstr "Создайте красивый сайт легко, без кодирования."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:171
+msgid "Create a new page"
+msgstr "Создать новую страницу"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:37
+msgid "Create your online store easily. The premium version is compatible with all popular e-commerce plugins."
+msgstr "Создайте свой интернет-магазин без труда. Премиум-версия совместима со всеми популярными плагинами для электронной коммерции."
+
+#: patterns/team-001.php:139
+msgid "Customer Service"
+msgstr "Обслуживание клиентов"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:40
+msgid "Customer Support & Documentation"
+msgstr "Поддержка клиентов и документация"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:127
+msgid "Customize Design"
+msgstr "Настроить дизайн"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:34
+msgid "Customize Everything"
+msgstr "Настройте все"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:90
+msgid "Customize Settings"
+msgstr "Опции настройщика"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:34
+msgid "Customize the design to fit your brand or style with our easy-to-use customization options."
+msgstr "Настройте дизайн в соответствии с Вашим брендом или стилем с помощью наших простых в использовании опций настройки."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:129
+msgid "Customize your website design to fit your personality or brand."
+msgstr "Настройте дизайн своего сайта так, чтобы он соответствовал Вашей индивидуальности или бренду."
+
+#: patterns/team-001.php:101
+msgid "David Johnson"
+msgstr "Дэвид Джонсон"
+
+#: patterns/contact-001.php:21 patterns/contact-009.php:22
+msgid "Discover our offices around the world"
+msgstr "Откройте для себя наши офисы по всему миру"
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:248
+msgid "Do you enjoy using %s? Support us by reviewing us on WordPress.org!"
+msgstr "Нравится ли Вам использовать %s? Поддержите нас, оставив отзыв на WordPress.org!"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:37
+msgid "E-commerce Compatibility"
+msgstr "Совместимость с электронной коммерцией"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:114
+msgid "Edit Front Page"
+msgstr "Изменить первую страницу"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:116
+msgid "Edit and customize your front page design through the site editor."
+msgstr "Редактируйте и настраивайте дизайн Вашей первой страницы с помощью редактора сайта."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:73
+msgid "Elementor sections"
+msgstr "Разделы Elementor"
+
+#: patterns/contact-005.php:40 patterns/contact-006.php:38
+msgid "Email@example.com"
+msgstr "Email@example.com"
+
+#: patterns/team-001.php:134
+msgid "Emily Brown"
+msgstr "Эмили Браун"
+
+#: patterns/layout-004.php:21 patterns/layout-005.php:21
+msgid "Establish a striking online presence, a better visual identity, or elevate your brand through social media marketing."
+msgstr "Создайте яркое присутствие в Интернете, лучший визуальный образ или возвысьте свой бренд с помощью маркетинга в социальных сетях."
+
+#: patterns/cta-001.php:19 patterns/header-002.php:22
+msgid "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet volutpat. Nullam egestas sem at mollis sodales."
+msgstr "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet volutpat. Nullam egestas sem at mollis sodales."
+
+#: patterns/cta-001.php:24
+msgid "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet volutpat. Nullam egestas sem at mollis sodales. Nunc eget lacinia eros, ut tincidunt nunc. Quisque volutpat, enim id volutpat interdum, purus odio euismod neque."
+msgstr "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet volutpat. Nullam egestas sem at mollis sodales. Nunc eget lacinia eros, ut tincidunt nunc. Quisque volutpat, enim id volutpat interdum, purus odio euismod neque."
+
+#: patterns/layout-002.php:21 patterns/layout-002.php:44
+#: patterns/layout-002.php:66
+msgid "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet volutpat..."
+msgstr "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet volutpat."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: theme.json styles/nest.json styles/sprout.json
+msgctxt "Color name"
+msgid "Featured"
+msgstr "Избранные"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: patterns/testimonial-001.php:33
+msgid "Founder, Yellow Bird"
+msgstr "Основатель, Yellow Bird"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:61
+msgid "Frequent Updates"
+msgstr "Частые обновления"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:28
+msgid "Fully Search Engine Optimized"
+msgstr "Полностью оптимизировано для поисковых систем"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:58
+msgid "GDPR Compliant"
+msgstr "Совместимый с GDPR"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:206
+msgid "Get Premium Version"
+msgstr "Получить премиум-версию"
+
+#: inc/superbthemes-info-content/admin-notice/notices/addons-notice.php:31
+#: patterns/header-007.php:26
+msgid "Get Started"
+msgstr "Начать"
+
+#: patterns/contact-001.php:46 patterns/contact-001.php:72
+#: patterns/contact-011.php:50 patterns/contact-011.php:78
+msgid "Get directions"
+msgstr "Получить указания"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:28
+msgid "Get free traffic by ranking #1 on Google with the lightning-fast & SEO-optimized premium version."
+msgstr "Получите бесплатный трафик, заняв место №1 в Google с помощью молниеносной и SEO-оптимизированной премиум-версии."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:46
+msgid "Get started easily with our one-click demo content import feature. Get your website up and running in seconds."
+msgstr "Начните работу с легкостью, воспользовавшись нашей функцией импорта демонстрационного контента одним щелчком мыши. Запустите свой сайт в работу за считанные секунды."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:246
+msgid "Give us feedback"
+msgstr "Ооставьте свой отзыв"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:91
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:106
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:119
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:132
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:145
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:158
+msgid "Go To Site Editor"
+msgstr "Открыть Редактор сайта"
+
+#: functions.php:74
+msgid "Header"
+msgstr "Заголовок"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: patterns/header-002.php
+msgctxt "Pattern title"
+msgid "Header 002"
+msgstr "Заголовок 002"
+
+#: patterns/header-005.php
+msgctxt "Pattern title"
+msgid "Header 005"
+msgstr "Заголовок 005"
+
+#: patterns/header-007.php
+msgctxt "Pattern title"
+msgid "Header 007"
+msgstr "Заголовок 007"
+
+#: patterns/header-008.php
+msgctxt "Pattern title"
+msgid "Header 008"
+msgstr "Заголовок 008"
+
+#: patterns/header-007.php
+msgctxt "Pattern description"
+msgid "Header Image With Text on"
+msgstr "Изображение заголовка с текстом"
+
+#: functions.php:75
+msgid "Header patterns"
+msgstr "Паттерны заголовка"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: patterns/content-001.php:10
+msgid "How it all started"
+msgstr "Как все началось"
+
+#: patterns/layout-002.php:16
+msgid "How to write books"
+msgstr "Как писать книги"
+
+#: patterns/layout-002.php:61
+msgid "How to write online"
+msgstr "Как писать в Интернете"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:239
+msgid "If you have issues with %s, please send us an email through our website!"
+msgstr "Если у Вас возникли проблемы с %s, пожалуйста, отправьте нам письмо через наш сайт!"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установка"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: inc/superbthemes-info-content/admin-notice/notices/addons-notice.php:36
+msgid "Install & Activate"
+msgstr "Установить и активировать"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: patterns/content-001.php:15
+msgid "It all started in my parents garage..."
+msgstr "Все началось в гараже моих родителей..."
+
+#: patterns/team-001.php:35
+msgid "Jane Smith"
+msgstr "Джейн Смит"
+
+#: patterns/testimonial-001.php:88
+msgid "John Doe"
+msgstr "John Doe"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Большой"
+
+#: patterns/layout-002.php
+msgctxt "Pattern title"
+msgid "Layout 002"
+msgstr "Макет 002"
+
+#: patterns/layout-003.php
+msgctxt "Pattern title"
+msgid "Layout 003"
+msgstr "Макет 003"
+
+#: patterns/layout-004.php
+msgctxt "Pattern title"
+msgid "Layout 004"
+msgstr "Макет 004"
+
+#: patterns/layout-005.php
+msgctxt "Pattern title"
+msgid "Layout 005"
+msgstr "Макет 005"
+
+#: functions.php:116
+msgid "Layouts"
+msgstr "Макеты"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:249
+msgid "Leave a Review"
+msgstr "Оставьте отзыв"
+
+#: patterns/layout-004.php:38 patterns/layout-004.php:54
+#: patterns/layout-004.php:70
+msgid "Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Aenean ac eros sed orci molestie suscipit."
+msgstr "Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Aenean ac eros sed orci molestie suscipit."
+
+#: patterns/content-013.php:23 patterns/content-014.php:29
+#: patterns/layout-005.php:38 patterns/layout-005.php:56
+#: patterns/layout-005.php:73
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec congue lorem ut volutpat efficitur. Fusce justo magna, condimentum nec elementum sed, sollicitudin vitae enim. Vivamus sit amet metus porttitor, rhoncus nibh et, venenatis turpis. Etiam lobortis semper ante, quis luctus lacus tincidunt vel."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec congue lorem ut volutpat efficitur. Fusce justo magna, condimentum nec elementum sed, sollicitudin vitae enim. Vivamus sit amet metus porttitor, rhoncus nibh et, venenatis turpis. Etiam lobortis semper ante, quis luctus lacus tincidunt vel."
+
+#: patterns/contact-002.php:21
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec congue lorem ut volutpat efficitur. Fusce justo magna, condimentum nec elementum sed."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec congue lorem ut volutpat efficitur. Fusce justo magna, condimentum nec elementum sed."
+
+#: patterns/testimonial-001.php:17 patterns/testimonial-001.php:48
+#: patterns/testimonial-001.php:78
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non nisl in velit dignissim mollis."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non nisl in velit dignissim mollis."
+
+#: patterns/content-001.php:21 patterns/content-001.php:36
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet sed neque vitae pharetra. Duis vitae dolor dictum, interdum metus quis, posuere nisl. Aenean convallis odio a odio lobortis fringilla. Proin consequat id quam et convallis. Praesent dui sem, rhoncus ut ex ut, bibendum euismod justo."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce imperdiet sed neque vitae pharetra. Duis vitae dolor dictum, interdum metus quis, posuere nisl. Aenean convallis odio a odio lobortis fringilla. Proin consequat id quam et convallis. Praesent dui sem, rhoncus ut ex ut, bibendum euismod justo."
+
+#: patterns/content-001.php:31
+msgid "Maecenas pulvinar neque felis, eget scelerisque sem laoreet vitae. Etiam suscipit mauris at mollis consectetur. Aenean blandit aliquam purus pretium elementum.Proin sit amet porttitor velit. Praesent quis cursus metus, ut accumsan mi. Integer lectus purus."
+msgstr "Maecenas pulvinar neque felis, eget scelerisque sem laoreet vitae. Etiam suscipit mauris at mollis consectetur. Aenean blandit aliquam purus pretium elementum.Proin sit amet porttitor velit. Praesent quis cursus metus, ut accumsan mi. Integer lectus purus."
+
+#: patterns/team-001.php:73
+msgid "Marketing Manager"
+msgstr "Менеджер по маркетингу"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: patterns/team-001.php:16
+msgid "Meet our Talented Team"
+msgstr "Познакомьтесь с нашей талантливой командой"
+
+#: patterns/team-001.php:68
+msgid "Michael Doe"
+msgstr "Майкл Доу"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#: theme.json styles/nest.json styles/sprout.json styles/taxi.json
+msgctxt "Color name"
+msgid "Mono 1"
+msgstr "Моно 1"
+
+#: theme.json styles/nest.json styles/sprout.json styles/taxi.json
+msgctxt "Color name"
+msgid "Mono 2"
+msgstr "Моно 2"
+
+#: theme.json styles/nest.json styles/sprout.json styles/taxi.json
+msgctxt "Color name"
+msgid "Mono 3"
+msgstr "Моно 3"
+
+#: theme.json styles/nest.json styles/sprout.json styles/taxi.json
+msgctxt "Color name"
+msgid "Mono 4"
+msgstr "Моно 4"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:221
+msgid "Need inspiration? Take a moment to view our theme demo!"
+msgstr "Нужно вдохновение? Найдите минутку, чтобы просмотреть демо-версию нашей темы!"
+
+#: patterns/contact-001.php:61 patterns/contact-009.php:35
+#: patterns/contact-011.php:67
+msgid "New York"
+msgstr "Нью-Йорк"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:58
+msgid "Our premium version comes fully compliant, giving you peace of mind about user data protection and privacy."
+msgstr "Наша премиум-версия полностью соответствует всем требованиям, что позволяет Вам не беспокоиться о защите пользовательских данных и конфиденциальности."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:61
+msgid "Our premium version provides frequent enhancements for security, performance, and features."
+msgstr "В нашей премиум-версии часто происходят улучшения безопасности, производительности и функций."
+
+#: patterns/layout-005.php:11
+msgid "Our services"
+msgstr "Наши услуги"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:31
+msgid "Page Speed Optimized"
+msgstr "Оптимизированная скорость страницы"
+
+#: patterns/testimonial-001.php:28 patterns/testimonial-003.php:36
+#: patterns/testimonial-003.php:60 patterns/testimonial-003.php:83
+#: patterns/testimonial-003.php:109 patterns/testimonial-003.php:133
+#: patterns/testimonial-003.php:157
+msgid "Pauline Gilbert"
+msgstr "Полин Гилберт"
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#: patterns/blog-002.php:11
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Meta"
+msgstr "Мета записи"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:193
+msgid "Premium"
+msgstr "Премиум"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:49
+msgid "Premium Designs, Patterns & Layouts"
+msgstr "Премиальные дизайны, паттерны и макеты"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:181
+msgid "Premium Features"
+msgstr "Премиум-функции"
+
+#: theme.json styles/nest.json styles/sprout.json styles/taxi.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json styles/nest.json styles/sprout.json styles/taxi.json
+msgctxt "Color name"
+msgid "Primary Hover"
+msgstr "Основной при наведении"
+
+#: patterns/header-002.php:29
+msgid "Read Blog"
+msgstr "Прочитать блог"
+
+#: inc/superbthemes-info-content/admin-notice/notices/addons-notice.php:35
+#: inc/superbthemes-info-content/admin-notice/notices/theme-notice.php:13
+#: patterns/header-007.php:31 patterns/layout-002.php:27
+#: patterns/layout-002.php:49 patterns/layout-002.php:71
+msgid "Read More"
+msgstr "Читайте далее"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендован"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: patterns/layout-004.php:33 patterns/layout-005.php:33
+msgid "Service 1"
+msgstr "Услуга 1"
+
+#: patterns/layout-004.php:49 patterns/layout-005.php:51
+msgid "Service 2"
+msgstr "Услуга 2"
+
+#: patterns/layout-004.php:65 patterns/layout-005.php:68
+msgid "Service 3"
+msgstr "Услуга 3"
+
+#: patterns/layout-004.php:11
+msgid "Services"
+msgstr "Услуги"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Подробнее"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: patterns/testimonial-001.php:58
+msgid "Sophie Hanson"
+msgstr "Софи Хансон"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:168
+msgid "Start creating your website by adding pages to it."
+msgstr "Начните создавать свой сайт, добавляя на него страницы."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:55
+msgid "Stay ahead with Accelerated Mobile Pages (AMP) compatibility."
+msgstr "Будьте впереди благодаря совместимости с ускоренными мобильными страницами (AMP)."
+
+#: patterns/contact-001.php:35 patterns/contact-009.php:57
+#: patterns/contact-011.php:39
+msgid "Sydney"
+msgstr "Сидней"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:70
+msgid "Take advantage of the 400+ beautiful patterns for every type of website."
+msgstr "Воспользуйтесь 400+ красивыми шаблонами для любого типа сайтов."
+
+#: inc/superbthemes-info-content/admin-notice/notices/theme-notice.php:9
+msgid "Take advantage of the up to"
+msgstr "Воспользуйтесь преимуществами"
+
+#: patterns/team-001.php
+msgctxt "Pattern title"
+msgid "Team 001"
+msgstr "Команда 001"
+
+#: functions.php:96
+msgid "Team patterns"
+msgstr "Паттерны команды"
+
+#: functions.php:95
+msgid "Teams"
+msgstr "Команды"
+
+#: functions.php:123
+msgid "Testimonial"
+msgstr "Отзывы"
+
+#: patterns/testimonial-001.php
+msgctxt "Pattern title"
+msgid "Testimonial 001"
+msgstr "Отзыв 001"
+
+#: patterns/testimonial-002.php
+msgctxt "Pattern title"
+msgid "Testimonial 002"
+msgstr "Отзыв 002"
+
+#: patterns/testimonial-003.php
+msgctxt "Pattern title"
+msgid "Testimonial 003"
+msgstr "Отзыв 003"
+
+#: functions.php:124
+msgid "Testimonial and review patterns"
+msgstr "Паттерны отзывов и рецензий"
+
+#: inc/superbthemes-info-content/admin-notice/notices/theme-notice.php:10
+msgid "The discount is only available for a limited time."
+msgstr "Скидка предоставляется только в течение ограниченного времени."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующий плагин до последней версии: %1$s."
+msgstr[1] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующие плагины до последней версии: %1$s."
+msgstr[2] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующие плагины до последней версии: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующие плагины были успешно активированы:"
+msgstr[2] "Следующие плагинов был успешно активирован:"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий требуемый плагин в настоящее время не активен: %1$s."
+msgstr[1] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+msgstr[2] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:52
+msgid "The premium version looks perfect everywhere, from desktop to mobile, and in every browser."
+msgstr "Премиум-версия выглядит идеально везде, от настольных компьютеров до мобильных устройств и в любом браузере."
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-controller.php:38
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых, или рекомендуемых плагинов для установки, обновления или активации."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для этой темы рекомендуются следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Крошечный"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/superbthemes-info-content/admin-notice/notices/addons-notice.php:32
+msgid "Unlock %s & the Full Potential of WordPress with Superb Addons"
+msgstr "Раскройте %s и весь потенциал WordPress с помощью превосходных аддонов"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:182
+msgid "Unlock All Features"
+msgstr "Разблокировать все функции"
+
+#: inc/superbthemes-info-content/admin-notice/notices/theme-notice.php:7
+msgid "Unlock All Features with %s Premium – Limited Time Offer"
+msgstr "Разблокируйте все возможности с помощью %s Premium - ограниченное по времени предложение"
+
+#: inc/superbthemes-info-content/template-information/class-template-information-controller.php:44
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:23
+msgid "Unlock all features by upgrading to the premium edition of %s and its parent theme %s."
+msgstr "Разблокируйте все функции, обновившись до премиум-версии %s и его родительской темы %s."
+
+#: inc/superbthemes-info-content/template-information/class-template-information-controller.php:44
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:23
+msgid "Unlock all features by upgrading to the premium edition of %s."
+msgstr "Разблокируйте все функции, обновившись до премиум-версии %s."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:31
+msgid "Unlock maximum speed with the premium version. It loads in less than 0.3 seconds. "
+msgstr "Разблокируйте максимальную скорость с помощью премиум-версии. Она загружается менее чем за 0,3 секунды. "
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновление"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновлений <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: inc/superbthemes-info-content/admin-notice/notices/theme-notice.php:13
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: inc/superbthemes-info-content/template-information/class-template-information-controller.php:50
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:228
+msgid "Upgrade to premium"
+msgstr "Обновить до Premium"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:153
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:64
+msgid "Use child themes to make modifications without affecting the parent theme's code, ensuring smooth updates."
+msgstr "Используйте дочерние темы для внесения изменений, не затрагивая код родительской темы, обеспечивая плавное обновление."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:67
+msgid "Use our many custom WordPress Gutenberg blocks for every purpose!"
+msgstr "Используйте наши многочисленные пользовательские блоки WordPress Gutenberg для любых целей!"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:220
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:222
+msgid "View Demo"
+msgstr "Смотреть демо"
+
+#: inc/superbthemes-info-content/template-information/class-template-information-controller.php:53
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:231
+msgid "View Premium Version"
+msgstr "Посмотрите премиальную версию"
+
+#: patterns/contact-001.php:11 patterns/contact-002.php:11
+msgid "Visit us"
+msgstr "Посетить нас"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:202
+msgid "With %s Premium you'll have full access to this feature as well as all the other features listed."
+msgstr "С %s Premium Вы получите полный доступ к этой функции, а также ко всем остальным перечисленным возможностям."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: patterns/content-001.php:26
+msgid "Vestibulum pellentesque metus cursus ligula luctus, vel lacinia enim pulvinar. Praesent quis tincidunt ante, non cursus erat. Duis pellentesque bibendum condimentum. Praesent sit amet purus fermentum, semper sem sit amet, tempor ligula. In id pulvinar libero. Etiam odio urna, lobortis non maximus at, convallis sed diam. Aliquam erat volutpat."
+msgstr "Vestibulum pellentesque metus cursus ligula luctus, vel lacinia enim pulvinar. Praesent quis tincidunt ante, non cursus erat. Duis pellentesque bibendum condimentum. Praesent sit amet purus fermentum, semper sem sit amet, tempor ligula. In id pulvinar libero. Etiam odio urna, lobortis non maximus at, convallis sed diam. Aliquam erat volutpat."
+
+#: patterns/content-001.php:41
+msgid "Vestibulum pellentesque metus cursus ligula luctus, vel lacinia enim pulvinar. Praesent quis tincidunt ante, non cursus erat. Duis pellentesque bibendum condimentum. Praesent sit amet purus fermentum, semper sem sit amet, tempor ligula. In id pulvinar libero. Etiam odio urna, lobortis non maximus at, convallis sed diam. Aliquam erat volutpat.aesent quis cursus metus, ut accumsan mi. Integer lectus purus."
+msgstr "Vestibulum pellentesque metus cursus ligula luctus, vel lacinia enim pulvinar. Praesent quis tincidunt ante, non cursus erat. Duis pellentesque bibendum condimentum. Praesent sit amet purus fermentum, semper sem sit amet, tempor ligula. In id pulvinar libero. Etiam odio urna, lobortis non maximus at, convallis sed diam. Aliquam erat volutpat.aesent quis cursus metus, ut accumsan mi. Integer lectus purus."
+
+#: inc/superbthemes-info-content/admin-notice/notices/addons-notice.php:33
+msgid "With over 500 patterns, blocks, widgets and sections at your fingertips, you can create a professional website in minutes. Superb Addons works perfectly with Elementor and and the WordPress editor Gutenberg. Unlock the full potential of WordPress."
+msgstr "Имея под рукой более 500 паттернов, блоков, виджетов и разделов, Вы сможете создать профессиональный сайт за считанные минуты. Дополнения Superb прекрасно работают с Elementor и редактором WordPress Gutenberg. Раскройте весь потенциал WordPress."
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:67
+msgid "WordPress blocks"
+msgstr "Блоки WordPress"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:70
+msgid "WordPress patterns"
+msgstr "Паттерны WordPress"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:52
+msgid "Works On All Devices And Browsers"
+msgstr "Работает на всех устройствах и браузерах"
+
+#: inc/superbthemes-info-content/theme-page/class-theme-page-template.php:43
+msgid "Works With All Page Builders"
+msgstr "Работает со всеми конструкторами страниц"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XLarge"
+msgstr "XБольшой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XSmall"
+msgstr "XМаленький"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XSmall"
+msgstr "XМаленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXLarge"
+msgstr "XXБольшой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXSmall"
+msgstr "XXМаленький"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXSmall"
+msgstr "XXМаленький"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXlarge"
+msgstr "XXБольшой"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Xlarge"
+msgstr "XБольшой"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/superbthemes-info-content/admin-notice/notices/theme-notice.php:9
+msgid "and unlock all features with %s Premium."
+msgstr "и откройте все возможности с %s Premium."
+
+#: functions.php:117
+msgid "layout patterns"
+msgstr "шаблон макета"
+
+#: patterns/contact-011.php:23
+msgid "sit amet volutpat. Nullam egestas sem at mollis sodales."
+msgstr "sit amet volutpat. Nullam egestas sem at mollis sodales."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#: patterns/blog-001.php:21 patterns/blog-003.php:26 patterns/blog-004.php:45
+#: patterns/blog-004.php:78 patterns/blog-004.php:122 patterns/blog-004.php:155
+#: patterns/blog-005.php:21
+msgid "•"
+msgstr "•"
+
+#: styles/sprout.json
+msgctxt "Style variation name"
+msgid "🌱 Sprout"
+msgstr "🌱 Рассада"
+
+#: styles/taxi.json
+msgctxt "Style variation name"
+msgid "🚕 Taxi"
+msgstr "🚕 Такси"
+
+#: styles/nest.json
+msgctxt "Style variation name"
+msgid "🪹 Nest"
+msgstr "🪹 Гнездо"
+
+#: patterns/contact-005.php:35
+msgid "Email"
+msgstr "Email"
+
+#: patterns/contact-006.php:33
+msgid "Email Address"
+msgstr "Email-адрес"
+
+#: patterns/contact-009.php:45 patterns/contact-009.php:67
+msgid "Get Directions"
+msgstr "Получить направление"
+
+#: patterns/contact-005.php:11
+msgid "GET IN TOUCH"
+msgstr "СВЯЗАТЬСЯ С НАМИ"
+
+#: patterns/cta-005.php:15 patterns/header-008.php:23
+msgid "GET STARTED"
+msgstr "НАЧАЛО РАБОТЫ"
+
+#: patterns/contact-005.php:67
+msgid "Opening hours"
+msgstr "Часы работы"
+
+#: patterns/contact-005.php:51
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: patterns/contact-006.php:49
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr "Playfair Display"
+
+#: patterns/testimonial-003.php:12
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: patterns/contact-011.php:21
+msgid "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor"
+msgstr "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor"
+
+#: patterns/contact-005.php:21
+msgid "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet"
+msgstr "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet"
+
+#: patterns/testimonial-003.php:25 patterns/testimonial-003.php:49
+#: patterns/testimonial-003.php:72 patterns/testimonial-003.php:98
+#: patterns/testimonial-003.php:122 patterns/testimonial-003.php:146
+msgid "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet volutpat. Nullam egestas sem at mollis sodales. Nunc eget lacinia eros, ut tincidunt nunc. Quisque volutpat, enim id volutpat interdum neque."
+msgstr "Etiam placerat velit vitae dui blandit sollicitudin. Vestibulum tincidunt sed dolor sit amet volutpat. Nullam egestas sem at mollis sodales. Nunc eget lacinia eros, ut tincidunt nunc. Quisque volutpat, enim id volutpat interdum neque.\"."
+
+#: patterns/contact-006.php:14
+msgid "Get in Touch!"
+msgstr "Свяжитесь с нами!"
+
+#: patterns/contact-002.php:16
+msgid "Locate Us on the Map"
+msgstr "Найдите наше местоположение на карте"
+
+#: patterns/content-006.php:40 patterns/content-006.php:52
+#: patterns/content-006.php:64
+msgid "Lorem Ipsum"
+msgstr "Lorem ipsum"
+
+#: patterns/content-006.php:29
+msgid "Lorem Ipsum."
+msgstr "Lorem ipsum."
+
+#: patterns/header-005.php:14
+msgid "Our History"
+msgstr "Наша история"
+
+#: patterns/testimonial-002.php:20
+msgid "Theresa Morrison"
+msgstr "Тереза Моррисон"
+
+#: patterns/layout-004.php:16
+msgid "What We Offer"
+msgstr "Что мы предлагаем"
+
+#: patterns/content-006.php:18
+msgid "A Detailed Overview of Our Core Mission and Strategic Goals"
+msgstr "Подробный обзор нашей основной миссии и стратегических целей"
+
+#: patterns/content-006.php:33 patterns/content-006.php:45
+#: patterns/content-006.php:57 patterns/content-006.php:69
+msgid "dolor sit amet, consectetur adipiscing elit. Suspendisse eget dictum tellus, at consequat eros. Vestibulum id vestibulum augue. Maecenas et placerat diam, sit amet ullamcorper massa."
+msgstr "Dolor sit amet, consectetur adipiscing elit. Suspendisse eget dictum tellus, at consequat eros. Vestibulum id vestibulum augue. Maecenas et placerat diam, sit amet ullamcorper massa."
+
+#: patterns/contact-005.php:72
+msgid "Everyday 10:00-18:00"
+msgstr "Ежедневно с 10:00 до 18:00"
+
+#: patterns/banner-001.php:15
+msgid "Featured Article:"
+msgstr "Избранные статьи:"
+
+#: patterns/contact-011.php:16
+msgid "Find Our Offices"
+msgstr "Найти наши офисы"
+
+#: patterns/testimonial-001.php:93
+msgid "Freelance Writer, AdStart"
+msgstr "Независимый автор, adStart"
+
+#: patterns/contact-009.php:12
+msgid "Join Us for a Cup of Coffee"
+msgstr "Присоединяйтесь к нам за чашкой кофе"
+
+#: patterns/content-006.php:23
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce massa dui, sagittis et blandit eget, finibus id quam. Ut dolor quam, tempor quis consectetur id, porttitor luctus justo. Aliquam sollicitudin molestie purus, sed cursus odio mollis at."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce massa dui, sagittis et blandit eget, finibus id quam. Ut dolor quam, tempor quis consectetur id, porttitor luctus justo. Aliquam sollicitudin molestie purus, sed cursus odio mollis at."
+
+#: patterns/contact-006.php:19
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at blandit nibh, rutrum aliquet odio. Sed efficitur mauris in magna tempor."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at blandit nibh, rutrum aliquet odio. Sed efficitur mauris in magna tempor."
+
+#: patterns/contact-009.php:17
+msgid "Our Beautiful Locations"
+msgstr "Наши прекрасные местаположение"
+
+#: patterns/team-001.php:46
+msgid "With over 10 years experience as influencer, Jane leads our team with passion and expertise."
+msgstr "Имея более 10 лет опыта в качестве влиятельного лица, Джейн руководит нашей командой с энтузиазмом и профессионализмом."
+
+#: patterns/blog-004.php:108
+msgid "Local News"
+msgstr "Местные новости"
+
+#: patterns/contact-001.php:16
+msgid "Our Coffee Shops"
+msgstr "Наши кофейни"
+
+#: patterns/content-011.php:14
+msgid "We Shape Clarity"
+msgstr "Мы формируем ясность"
+
+#: patterns/content-011.php:16
+msgid "Into Every Pixel."
+msgstr "В каждый пиксель."
+
+#: patterns/content-011.php:30
+msgid "FLEXIBLE LAYOUTS"
+msgstr "ГИБКИЕ МАКЕТЫ"
+
+#: patterns/content-011.php:36
+msgid "Whatever you build—portfolio, blog, storefront, or landing page—Creative Minimalist adapts instantly. Drag-and-drop sections, swap color palettes, and choose from precision-crafted grids that keep the spotlight on your content."
+msgstr "Независимо от того, что вы создаете - портфолио, блог, витрину или целевую страницу - Creative Minimalist мгновенно адаптируется. Перетаскивайте разделы, меняйте цветовые палитры и выбирайте из точно проработанных сеток, которые позволяют сосредоточить внимание на вашем контенте."
+
+#: patterns/content-011.php:55
+msgid "INCREDIBLE PERFORMANCE"
+msgstr "НЕВЕРОЯТНАЯ ПРОИЗВОДИТЕЛЬНОСТЬ"
+
+#: patterns/content-011.php:61
+msgid "A lean codebase and smart asset loading give you lightning-fast pages on phones, tablets, and desktops alike. No bloat, no distractions—just an experience that feels as fluid as it looks."
+msgstr "Оптимизированный код и интеллектуальная загрузка ресурсов обеспечивают высокую скорость работы страниц на телефонах, планшетах и настольных компьютерах. Без лишних элементов и отвлекающих факторов - только плавный и удобный интерфейс."
+
+#: patterns/header-008.php:17
+msgid "Balanced grids, airy spacing, and purposeful typography give your content room to breathe. Whether you’re launching a portfolio, storefront, blog, or landing page, this theme molds seamlessly to your vision."
+msgstr "Сбалансированные сетки, просторные интервалы и целенаправленная типографика позволяют вашему содержимому дышать. Независимо от того, запускаете ли вы портфолио, витрину, блог или целевую страницу, эта тема идеально соответствует вашему видению."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://superbthemes.com/"
+msgstr "https://superbthemes.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://superbthemes.com/bakery-and-pastry/creative-minimalist/"
+msgstr "https://superbthemes.com/bakery-and-pastry/creative-minimalist/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "superbthemescom"
+msgstr "superbthemescom"
